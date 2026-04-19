@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+
+output_png_dataset/
+output_png_dataset_smoke/
+dataset/
+
+Model/
+*.weights.h5
+*.h5
+*.p
+metrics.json

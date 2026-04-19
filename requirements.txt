@@ -1,0 +1,7 @@
+numpy
+tensorflow
+Pillow
+scikit-image
+tqdm
+openslide-python
+openslide-bin
