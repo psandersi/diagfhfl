@@ -5,3 +5,7 @@ scikit-image
 tqdm
 openslide-python
 openslide-bin
+h5py
+opencv-python-headless
+clearml
+boto3
